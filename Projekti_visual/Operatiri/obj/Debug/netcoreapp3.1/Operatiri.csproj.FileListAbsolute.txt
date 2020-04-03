@@ -1,0 +1,13 @@
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\bin\Debug\netcoreapp3.1\Operatiri.exe
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\bin\Debug\netcoreapp3.1\Operatiri.deps.json
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\bin\Debug\netcoreapp3.1\Operatiri.runtimeconfig.json
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\bin\Debug\netcoreapp3.1\Operatiri.runtimeconfig.dev.json
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\bin\Debug\netcoreapp3.1\Operatiri.dll
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\bin\Debug\netcoreapp3.1\Operatiri.pdb
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.csprojAssemblyReference.cache
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.csproj.CoreCompileInputs.cache
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.AssemblyInfoInputs.cache
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.AssemblyInfo.cs
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.dll
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.pdb
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Operatiri\obj\Debug\netcoreapp3.1\Operatiri.genruntimeconfig.cache

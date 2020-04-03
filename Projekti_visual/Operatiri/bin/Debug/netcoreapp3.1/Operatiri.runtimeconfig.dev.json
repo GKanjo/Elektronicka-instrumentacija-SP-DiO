@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DeadRush\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DeadRush\\.nuget\\packages"
+    ]
+  }
+}
