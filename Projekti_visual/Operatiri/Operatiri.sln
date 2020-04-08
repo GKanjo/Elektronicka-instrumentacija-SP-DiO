@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatiri", "Operatiri.csproj", "{F0BFC3FB-4192-46A1-9FB1-E5047EB81A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatiri", "Operatiri.csproj", "{F0BFC3FB-4192-46A1-9FB1-E5047EB81A98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Skola", "Skola", "{FE6E57F3-338E-4AC7-8FEB-7C1E27AF9729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator", "..\Kalkulator\Kalkulator.csproj", "{0F97928E-DDB2-49FF-9BB4-CDBEBB5E0C6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{F0BFC3FB-4192-46A1-9FB1-E5047EB81A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0BFC3FB-4192-46A1-9FB1-E5047EB81A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0BFC3FB-4192-46A1-9FB1-E5047EB81A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F97928E-DDB2-49FF-9BB4-CDBEBB5E0C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F97928E-DDB2-49FF-9BB4-CDBEBB5E0C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F97928E-DDB2-49FF-9BB4-CDBEBB5E0C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F97928E-DDB2-49FF-9BB4-CDBEBB5E0C6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F97928E-DDB2-49FF-9BB4-CDBEBB5E0C6A} = {FE6E57F3-338E-4AC7-8FEB-7C1E27AF9729}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B7D0461A-4FF5-4EFE-875E-3B33B4467A0D}

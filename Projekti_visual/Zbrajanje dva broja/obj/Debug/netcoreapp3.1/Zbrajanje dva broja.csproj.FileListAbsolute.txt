@@ -1,0 +1,13 @@
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\bin\Debug\netcoreapp3.1\Zbrajanje dva broja.exe
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\bin\Debug\netcoreapp3.1\Zbrajanje dva broja.deps.json
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\bin\Debug\netcoreapp3.1\Zbrajanje dva broja.runtimeconfig.json
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\bin\Debug\netcoreapp3.1\Zbrajanje dva broja.runtimeconfig.dev.json
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\bin\Debug\netcoreapp3.1\Zbrajanje dva broja.dll
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\bin\Debug\netcoreapp3.1\Zbrajanje dva broja.pdb
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.csprojAssemblyReference.cache
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.csproj.CoreCompileInputs.cache
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.AssemblyInfoInputs.cache
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.AssemblyInfo.cs
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.dll
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.pdb
+D:\Projekti\Elektronicka-instrumentacija-SP-DiO\Projekti_visual\Zbrajanje dva broja\obj\Debug\netcoreapp3.1\Zbrajanje dva broja.genruntimeconfig.cache
